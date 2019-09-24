@@ -11,3 +11,4 @@
 [alias]
 	fp = !git fetch && git pull
 	lg = log --graph --oneline --decorate
+ 
