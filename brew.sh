@@ -22,17 +22,8 @@ brew install autojump
 # Better cat
 brew install bat
 
-# GitHub via CLI
-brew install hub
-
-# Node.js
-brew install node
-
 # C/C++ and Java libraries for Unicode and globalization
 brew install icu4c
-
-# JavaScript package manager
-brew install yarn
 
 # Bash autcompletion
 brew install 'bash-completion'
